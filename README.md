@@ -116,8 +116,8 @@ $$
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/AK17Hydro/leach-simulation/
+   cd leech-simulation
    ```
 
 2. **Build and Run via CLI**:
